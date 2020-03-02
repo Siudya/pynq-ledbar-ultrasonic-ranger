@@ -4,10 +4,10 @@ This repository contains an example of using ledbar and ultrasonic distance sens
 The design illustrates how to program embedded MircroBlaze cores to control a ultrasonic ranger and a ledbar on the FPGA with PYNQ base overlay. The pdf illustrate the operation(in Chinese).
 
 ## Quick start
-'''
+```
 sudo git clone https://github.com/Siudya/pynq-ledbar-ultrasonic-ranger.git /home/xilinx/jupyter_notebooks/pynq-ledbar-ultrasonic-ranger
-'''
-Go to your jupyter home folder('/home/xilinx/jupyter_notebooks'), and you will find this project fold 'pynq-ledbar-ultrasonic-ranger'. Go in the fold you and run pynq-ledbar-ultrasonic-ranger.ipynb
+```
+Go to your jupyter home folder(`/home/xilinx/jupyter_notebooks`), and you will find this project fold `pynq-ledbar-ultrasonic-ranger`. Go in the fold you and run pynq-ledbar-ultrasonic-ranger.ipynb
 
 ##Devices and connection
 Grove Ultrasonic Distance Sensor: https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html
