@@ -10,6 +10,7 @@ sudo git clone https://github.com/Siudya/pynq-ledbar-ultrasonic-ranger.git /home
 Go to your jupyter home folder(`/home/xilinx/jupyter_notebooks`), and you will find this project fold `pynq-ledbar-ultrasonic-ranger`. Go in the fold you and run pynq-ledbar-ultrasonic-ranger.ipynb
 
 ##Devices and connection
+
 Grove Ultrasonic Distance Sensor: https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html
 
 Grove LED Bar: https://www.seeedstudio.com/Grove-LED-Bar-v2-0.html
