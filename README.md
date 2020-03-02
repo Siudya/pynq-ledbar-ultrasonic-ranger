@@ -11,15 +11,15 @@ Go to your jupyter home folder(`/home/xilinx/jupyter_notebooks`), and you will f
 
 ## Devices and connection
 
-Grove Ultrasonic Distance Sensor: https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html
+Grove Ultrasonic Distance Sensor: <https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html>
 
-Grove LED Bar: https://www.seeedstudio.com/Grove-LED-Bar-v2-0.html
+Grove LED Bar: <https://www.seeedstudio.com/Grove-LED-Bar-v2-0.html>
 
-Pmod-Grove adapter and PYNQ shield adapter: https://store.digilentinc.com/pynq-grove-system-add-on-board/
+Pmod-Grove adapter and PYNQ shield adapter: <https://store.digilentinc.com/pynq-grove-system-add-on-board/>
 
-Grove Base Shield for Arduino: https://www.seeedstudio.com/Base-Shield-V2.html
+Grove Base Shield for Arduino: <https://www.seeedstudio.com/Base-Shield-V2.html>
 
-  There are 8 green, 1 orange and 1 red LED on the Grove LED Bar. Each LED brightness can be controlled independently.
-In this design, if you use digilent PYNQ shield, LED Bar should be connected to G4 port.If you use Seeed base shield, LED Bar should be connected to D6 port.
-  The ultrasonic distance sensor should be connected to G1 port of the Pmod-Grove adapter and the latter should be connected to PMODA on the pynq-z2 board.
+There are 8 green, 1 orange and 1 red LED on the Grove LED Bar. Each LED brightness can be controlled independently.
+In this design, if you use digilent PYNQ shield, LED Bar should be connected to G4 port.If you use Seeed base shield, LED Bar should be connected to D6 port.  
+The ultrasonic distance sensor should be connected to G1 port of the Pmod-Grove adapter and the latter should be connected to PMODA on the pynq-z2 board.
 
